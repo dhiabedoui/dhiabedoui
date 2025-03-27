@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Title and badge section -->
 
 <h1 align="center">Hi, I'm Dhia BEDOUI 👋</h1>
